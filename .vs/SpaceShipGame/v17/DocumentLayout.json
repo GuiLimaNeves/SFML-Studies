@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\SpaceShipGame\\SpaceShipGame\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D80AC29-0554-4A28-B8BD-314F1396FDB4}|SpaceShipGame\\SpaceShipGame.vcxproj|C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D80AC29-0554-4A28-B8BD-314F1396FDB4}|SpaceShipGame\\SpaceShipGame.vcxproj|solutionrelative:SpaceShipGame\\src\\Ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D80AC29-0554-4A28-B8BD-314F1396FDB4}|SpaceShipGame\\SpaceShipGame.vcxproj|C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D80AC29-0554-4A28-B8BD-314F1396FDB4}|SpaceShipGame\\SpaceShipGame.vcxproj|solutionrelative:SpaceShipGame\\src\\Ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D80AC29-0554-4A28-B8BD-314F1396FDB4}|SpaceShipGame\\SpaceShipGame.vcxproj|C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D80AC29-0554-4A28-B8BD-314F1396FDB4}|SpaceShipGame\\SpaceShipGame.vcxproj|solutionrelative:SpaceShipGame\\src\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D80AC29-0554-4A28-B8BD-314F1396FDB4}|SpaceShipGame\\SpaceShipGame.vcxproj|C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D80AC29-0554-4A28-B8BD-314F1396FDB4}|SpaceShipGame\\SpaceShipGame.vcxproj|solutionrelative:SpaceShipGame\\src\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D80AC29-0554-4A28-B8BD-314F1396FDB4}|SpaceShipGame\\SpaceShipGame.vcxproj|C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D80AC29-0554-4A28-B8BD-314F1396FDB4}|SpaceShipGame\\SpaceShipGame.vcxproj|solutionrelative:SpaceShipGame\\src\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ship.h",
+              "DocumentMoniker": "C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Ship.h",
+              "RelativeDocumentMoniker": "SpaceShipGame\\src\\Ship.h",
+              "ToolTip": "C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Ship.h",
+              "RelativeToolTip": "SpaceShipGame\\src\\Ship.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-27T22:20:26.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ship.cpp",
+              "DocumentMoniker": "C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Ship.cpp",
+              "RelativeDocumentMoniker": "SpaceShipGame\\src\\Ship.cpp",
+              "ToolTip": "C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Ship.cpp",
+              "RelativeToolTip": "SpaceShipGame\\src\\Ship.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-27T22:21:20.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Enemy.cpp",
+              "RelativeDocumentMoniker": "SpaceShipGame\\src\\Enemy.cpp",
+              "ToolTip": "C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Enemy.cpp",
+              "RelativeToolTip": "SpaceShipGame\\src\\Enemy.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-24T19:55:48.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Enemy.h",
+              "RelativeDocumentMoniker": "SpaceShipGame\\src\\Enemy.h",
+              "ToolTip": "C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Enemy.h",
+              "RelativeToolTip": "SpaceShipGame\\src\\Enemy.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-20T22:35:23.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Main.cpp",
+              "RelativeDocumentMoniker": "SpaceShipGame\\src\\Main.cpp",
+              "ToolTip": "C:\\SpaceShipGame\\SpaceShipGame\\SpaceShipGame\\src\\Main.cpp",
+              "RelativeToolTip": "SpaceShipGame\\src\\Main.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T22:53:02.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
